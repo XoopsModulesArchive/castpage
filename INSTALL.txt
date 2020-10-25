@@ -1,0 +1,17 @@
+Credits:
+========
+This program is developed by snotling - visit http://www.snotling.org.
+
+Install Notes:
+==============
+1. Copy and overwrite the existing files in modules/castpage
+2. Goto the module manager in the administration page.
+3. Update/Install castpage module.
+
+Note:
+==============
+It is highly recommeded that you back up your existing files and 
+the data in database before you install or upgrade this, or any
+application.
+
+
